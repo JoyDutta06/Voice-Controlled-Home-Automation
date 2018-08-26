@@ -1,6 +1,6 @@
 # Voice-Controlled-Home-Automation
 
-This projects works via bluetooth. Each and every home appliances can be easily turned on and off via an android app and the user's voice.
+Voice Controlled Home Automation means controlling home appliances via own voice. This projects works via bluetooth. Each and every home appliances can be easily turned on and off via an android app and the user's voice.
 
 ### [Working Video](https://youtu.be/qXV1aiVxAfM)
 
